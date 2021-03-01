@@ -33,6 +33,7 @@
     <PackageReference Include="Microsoft.Graph" Version="3.9.0" />
     <PackageReference Include="Microsoft.Graph.Beta" Version="0.25.0-preview" />
     <PackageReference Include="Microsoft.Identity.Client" Version="4.17.0" />
+    <PackageReference Include="Microsoft.OData.Edm" Version="7.5.4" />
     <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="4.0.2">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

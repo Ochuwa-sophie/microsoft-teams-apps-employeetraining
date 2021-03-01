@@ -5,10 +5,10 @@
   "id": "eb3d22e5-1645-4334-a625-19249df25173",
   "packageName": "com.microsoft.teams.employeetraining",
   "developer": {
-    "name": "<<companyName>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "Infinion",
+    "websiteUrl": "http://infinion.co/",
+    "privacyUrl": "http://infinion.co/privacy.html",
+    "termsOfUseUrl": "http://infinion.co/termsofuse"
   },
   "localizationInfo": {
     "defaultLanguageTag": "en",
@@ -36,14 +36,14 @@
     {
       "entityId": "manage-events",
       "name": "Manage events",
-      "contentUrl": "https://<<appDomain>>/manage-events",
-      "websiteUrl": "https://<<appDomain>>/manage-events",
+      "contentUrl": "https://infinionnaija.azurefd.net/manage-events",
+      "websiteUrl": "https://infinionnaija.azurefd.net/manage-events",
       "scopes": [ "team" ]
     }
   ],
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "9157e3fb-4089-47d4-b359-acd4d6879cc8",
       "scopes": [
         "team"
       ],
@@ -67,10 +67,10 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "infinionnaija.azurefd.net"
   ],
   "webApplicationInfo": {
-    "id": "<<botId>>",
-    "resource": "api://<<appDomain>>/<<botId>>"
+    "id": "9157e3fb-4089-47d4-b359-acd4d6879cc8",
+    "resource": "api://infinionnaija.azurefd.net/9157e3fb-4089-47d4-b359-acd4d6879cc8"
   }
 }
