@@ -18,6 +18,7 @@ import { ISelectedDropdownItem } from "../../models/ISelectedDropdownItem";
 import { EventAudience } from "../../models/event-audience";
 import { saveEventAsDraftAsync } from "../../helpers/event-helper";
 
+//testerror
 interface ICreateEventsStep2Props extends WithTranslation {
     navigateToPage: (nextPage: number, stepEventState: ICreateEventState) => void;
     eventPageState: ICreateEventState;

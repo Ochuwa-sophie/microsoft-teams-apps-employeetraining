@@ -6,9 +6,9 @@
   "packageName": "com.microsoft.teams.employeetraining",
   "developer": {
     "name": "Infinion",
-    "websiteUrl": "https://infinion.co/",
-    "privacyUrl": "https://infinion.co/privacy.html",
-    "termsOfUseUrl": "https://infinion.co/termsofuse"
+    "websiteUrl": "http://infinion.co/",
+    "privacyUrl": "http://infinion.co/privacy.html",
+    "termsOfUseUrl": "http://infinion.co/termsofuse"
   },
   "localizationInfo": {
     "defaultLanguageTag": "en",
